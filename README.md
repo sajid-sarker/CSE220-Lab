@@ -17,3 +17,5 @@ Assignment 6: Recursion
 
 
 Assignment 7: Hashing & Hashtables
+
+Assignment 8: Trees
